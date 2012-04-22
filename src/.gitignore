@@ -1,0 +1,5 @@
+skype_server
+Makefile
+streamlog*
+moc_*
+*.o
